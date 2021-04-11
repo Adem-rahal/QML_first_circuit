@@ -1,4 +1,3 @@
-﻿Warning: This tutorial is intended for an informed audience with some knowledge of quantum computing and artificial intelligence.
 
 In this tutorial you will learn to build your first quantum machine learning algorithm, from embedding to training. We will construct a variational classifier (VC) - quantum circuits that can be trained from labelled data to classify new data samples.
 
